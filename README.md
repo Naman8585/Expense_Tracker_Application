@@ -1,16 +1,63 @@
 # cipherschools_flutter_assignment
 
-A new Flutter project.
+# Expense Tracker App
+
+An open-source Flutter application for tracking expenses. Easily manage your spending, view transaction history, and keep an eye on your account balance.
+
+## Features
+
+- **Add Expenses:** Add new expenses with details like name and amount.
+- **View Transactions:** See a list of recent transactions.
+- **Account Balance:** Monitor your account balance with a user-friendly interface.
+- **Swipe-to-Delete:** Swipe gestures for deleting transactions.
+- **Monthly Summary:** View your expenses categorized by month.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. **Clone the Repository:**
 
-A few resources to get you started if this is your first Flutter project:
+    ```bash
+    git clone https://github.com/your-username/expense-tracker-app.git
+    ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. **Navigate to the Project:**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    ```bash
+    cd expense-tracker-app
+    ```
+
+3. **Install Dependencies:**
+
+    ```bash
+    flutter pub get
+    ```
+
+4. **Run the App:**
+
+    ```bash
+    flutter run
+    ```
+
+## Contributing
+
+Contributions are welcome! Please follow these guidelines:
+
+- Fork the repository.
+- Create a new branch for your feature: `git checkout -b feature-name`
+- Commit your changes: `git commit -m 'Add some feature'`
+- Push to the branch: `git push origin feature-name`
+- Open a pull request.
+
+## Issues
+
+If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/your-username/expense-tracker-app/issues).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Thanks to the Flutter community for inspiration and support.
+
